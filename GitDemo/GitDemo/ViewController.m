@@ -22,7 +22,7 @@
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
 //    label.text = @"1111";
     [self.view addSubview:label];
-    label.text = @"33333";
+    label.text = @"55";
     
 }
 

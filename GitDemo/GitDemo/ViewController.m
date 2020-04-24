@@ -23,7 +23,7 @@
 //    label.text = @"1111";
     [self.view addSubview:label];
     label.text = @"11111";
-    
+    NSLog(@">>>>>>>>>>");
 }
 
 
